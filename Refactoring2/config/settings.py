@@ -6,7 +6,7 @@ class Config:
     
     # Directory paths
     BASE_DIR = Path(__file__).parent.parent
-    DATA_DIR = BASE_DIR / "Refactoring2/data"
+    DATA_DIR = BASE_DIR / "data"
     OUTPUT_DIR = BASE_DIR / "output"
     
     # File paths
