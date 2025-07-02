@@ -7,3 +7,4 @@ scikit-learn
 folium
 streamlit-folium
 geopandas
+fuzzywuzzy
